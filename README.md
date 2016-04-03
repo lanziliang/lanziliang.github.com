@@ -1,2 +1,1 @@
-# lanziliang.github.io
-蓝子亮的个人博客 
+[My blog](http://lanziliang.github.io)
